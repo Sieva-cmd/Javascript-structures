@@ -1,0 +1,1 @@
+export const strings = ['Java','Script',"node","Js","Html"];
